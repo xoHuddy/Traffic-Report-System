@@ -1,4 +1,4 @@
-# Traffic-Report-System
+# Traffic Report System
 
 The system provides an ability to log in either as a Police Officer or an Administrator. 
 One cannot log in as both simultaneously.
